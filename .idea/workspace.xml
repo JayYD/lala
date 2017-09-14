@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee48fb36-eac6-497b-9e9f-3684bf5f91e0" name="Default" comment="" />
+    <list default="true" id="ee48fb36-eac6-497b-9e9f-3684bf5f91e0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lala/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lala/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lala/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lala/lala.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lala/src/bilibi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lala/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../lala/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/../lala/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/../lala/src/bilibi.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -202,6 +209,14 @@
       <option name="presentableId" value="Default" />
       <updated>1505359959290</updated>
     </task>
+    <task id="LOCAL-00001" summary="S">
+      <created>1505363427980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505363427980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -238,6 +253,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="S" />
+    <option name="LAST_COMMIT_MESSAGE" value="S" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -262,7 +281,7 @@
     <entry file="file://$PROJECT_DIR$/../lala/src/bilibi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           <folding />
         </state>
       </provider>
